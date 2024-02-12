@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samip
 - 👀 I’m interested in gaming, linux and C.
-- 🌱 I’m currently completing my undergraduate degree.
+- 🌱 I’m currently completing my undergrad degree.
 - 💞️ Open Source Projects
 - 📫 samdriod99@gmail.com
 - 😄 Pronouns: He/Him
